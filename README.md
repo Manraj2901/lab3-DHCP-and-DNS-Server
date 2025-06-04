@@ -23,10 +23,10 @@ Here’s a quick look at what I did:
 
 | Step | Screenshot |
 |------|------------|
-| DHCP Setup on Server | ![DHCP Config](./screenshots/dhcp-config.png) |
-| DNS Zone Configuration | ![DNS Config](./screenshots/dns-config.png) |
-| Client receives IP | ![Client IP](./screenshots/client-ip-received.png) |
-| Name resolved via `nslookup` | ![nslookup](./screenshots/nslookup-success.png) |
+| DHCP Setup on Server | ![DHCP Config](./screenshots/DHCP-scope-1.png)|
+| DNS Zone Configuration | ![DNS Config](./screenshots/DNS-Forward-Zone.png) |
+| Client receives IP | ![Client IP](./screenshots/IPconfig.png) |
+| Name resolved via `nslookup` | ![nslookup](./screenshots/nslookup.png) |
 
 ## Reflections 🧠
 
